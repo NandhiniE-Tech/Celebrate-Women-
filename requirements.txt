@@ -1,0 +1,16 @@
+#packages 
+langchain
+langchain-huggingface
+python-dotenv
+langchain-community
+langchain-pinecone
+pypdf
+langchain-text-splitters
+langchain
+groq
+transformers
+langchain_groq
+docx2txt
+fastapi
+uvicorn[standard]  # please cross check with pip instsallation
+python-multipart
